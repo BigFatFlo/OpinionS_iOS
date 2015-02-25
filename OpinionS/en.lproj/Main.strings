@@ -1,0 +1,240 @@
+
+/* Class = "IBUILabel"; text = "Error Message"; ObjectID = "0Ws-SO-qob"; */
+"0Ws-SO-qob.text" = "Error Message";
+
+/* Class = "IBUIViewController"; title = "OwnedGroups"; ObjectID = "1h3-Te-c81"; */
+"1h3-Te-c81.title" = "OwnedGroups";
+
+/* Class = "IBUITextField"; placeholder = "Enter a possible answer"; ObjectID = "2r1-jT-6CX"; */
+"2r1-jT-6CX.placeholder" = "Enter a possible answer";
+
+/* Class = "IBUIViewController"; title = "ResetPassword"; ObjectID = "2wL-ma-2My"; */
+"2wL-ma-2My.title" = "ResetPassword";
+
+/* Class = "IBUILabel"; text = "No account yet?"; ObjectID = "3CZ-hy-1tk"; */
+"3CZ-hy-1tk.text" = "No account yet?";
+
+/* Class = "IBUIButton"; normalTitle = "Sign up"; ObjectID = "3Jj-Li-BSM"; */
+"3Jj-Li-BSM.normalTitle" = "Sign up";
+
+/* Class = "IBUIButton"; normalTitle = "1"; ObjectID = "3qE-0F-2BY"; */
+"3qE-0F-2BY.normalTitle" = "1";
+
+/* Class = "IBUIViewController"; title = "Results"; ObjectID = "5av-Im-6xn"; */
+"5av-Im-6xn.title" = "Results";
+
+/* Class = "IBUILabel"; text = "Answer 5"; ObjectID = "6yf-sQ-cCJ"; */
+"6yf-sQ-cCJ.text" = "Answer 5";
+
+/* Class = "IBUILabel"; text = "Type in your e-mail address to reset your password:"; ObjectID = "78V-FL-ihx"; */
+"78V-FL-ihx.text" = "Type in your e-mail address to reset your password:";
+
+/* Class = "IBUILabel"; text = "You have no subscribers"; ObjectID = "7mX-WS-wsU"; */
+"7mX-WS-wsU.text" = "You have no subscribers";
+
+/* Class = "IBUIViewController"; title = "Ask"; ObjectID = "8rJ-Kc-sve"; */
+"8rJ-Kc-sve.title" = "Ask";
+
+/* Class = "IBUIButton"; normalTitle = "Send"; ObjectID = "91T-yW-2CB"; */
+"91T-yW-2CB.normalTitle" = "Send";
+
+/* Class = "IBUIViewController"; title = "Home"; ObjectID = "9pv-A4-QxB"; */
+"9pv-A4-QxB.title" = "Home";
+
+/* Class = "IBUIViewController"; title = "Log In"; ObjectID = "A7z-nz-H5x"; */
+"A7z-nz-H5x.title" = "Log In";
+
+/* Class = "IBUITextField"; placeholder = "Email"; ObjectID = "Adl-mr-PmT"; */
+"Adl-mr-PmT.placeholder" = "Email";
+
+/* Class = "IBUILabel"; text = "Users available"; ObjectID = "Apr-Ia-1Zp"; */
+"Apr-Ia-1Zp.text" = "Users available";
+
+/* Class = "IBUILabel"; text = "Error message"; ObjectID = "BQ8-nT-0ii"; */
+"BQ8-nT-0ii.text" = "Error message";
+
+/* Class = "IBUITextField"; placeholder = "Group name"; ObjectID = "Bsq-gF-7sO"; */
+"Bsq-gF-7sO.placeholder" = "Group name";
+
+/* Class = "IBUITextField"; placeholder = "Username"; ObjectID = "CUE-Rf-tdj"; */
+"CUE-Rf-tdj.placeholder" = "Username";
+
+/* Class = "IBUIButton"; normalTitle = "4"; ObjectID = "CZJ-y4-Yj4"; */
+"CZJ-y4-Yj4.normalTitle" = "4";
+
+/* Class = "IBUILabel"; text = "Username"; ObjectID = "DZe-Bb-Kkx"; */
+"DZe-Bb-Kkx.text" = "Username";
+
+/* Class = "IBUIButton"; normalTitle = "Log out"; ObjectID = "EcC-AY-laJ"; */
+"EcC-AY-laJ.normalTitle" = "Log out";
+
+/* Class = "IBUILabel"; text = "Ask a Question!"; ObjectID = "FFz-pf-BPm"; */
+"FFz-pf-BPm.text" = "Ask a Question!";
+
+/* Class = "IBUITabBarItem"; title = "Your Groups"; ObjectID = "GB0-I5-5fh"; */
+"GB0-I5-5fh.title" = "Your Groups";
+
+/* Class = "IBUIViewController"; title = "SavedQuestions"; ObjectID = "GrA-K8-rF5"; */
+"GrA-K8-rF5.title" = "SavedQuestions";
+
+/* Class = "IBUIButton"; normalTitle = "5"; ObjectID = "H5W-gU-snG"; */
+"H5W-gU-snG.normalTitle" = "5";
+
+/* Class = "IBUILabel"; text = "Subscribe to a user's questions"; ObjectID = "HXP-Ds-HV5"; */
+"HXP-Ds-HV5.text" = "Subscribe to a user's questions";
+
+/* Class = "IBUILabel"; text = "Error message"; ObjectID = "IHR-lU-gdn"; */
+"IHR-lU-gdn.text" = "Error message";
+
+/* Class = "IBUILabel"; text = "Error message"; ObjectID = "JgH-wt-vu4"; */
+"JgH-wt-vu4.text" = "Error message";
+
+/* Class = "IBUIButton"; normalTitle = "Log in"; ObjectID = "Kyi-hW-0h5"; */
+"Kyi-hW-0h5.normalTitle" = "Log in";
+
+/* Class = "IBUIViewController"; title = "Profile"; ObjectID = "LO1-19-MdX"; */
+"LO1-19-MdX.title" = "Profile";
+
+/* Class = "IBUITabBarItem"; title = "Profile"; ObjectID = "LPS-lu-neP"; */
+"LPS-lu-neP.title" = "Profile";
+
+/* Class = "IBUILabel"; text = "Answer 2"; ObjectID = "MFz-HG-DgR"; */
+"MFz-HG-DgR.text" = "Answer 2";
+
+/* Class = "IBUITabBarItem"; title = "Item"; ObjectID = "Nc0-rU-aAt"; */
+"Nc0-rU-aAt.title" = "Item";
+
+/* Class = "IBUILabel"; text = "Error Message"; ObjectID = "OB1-H4-REP"; */
+"OB1-H4-REP.text" = "Error Message";
+
+/* Class = "IBUIButton"; normalTitle = "2"; ObjectID = "PSm-YK-4ft"; */
+"PSm-YK-4ft.normalTitle" = "2";
+
+/* Class = "IBUIButton"; normalTitle = "Back to Login"; ObjectID = "Px2-c8-oHA"; */
+"Px2-c8-oHA.normalTitle" = "Back to Login";
+
+/* Class = "IBUITextField"; placeholder = "Enter your question"; ObjectID = "RFp-Ts-mEb"; */
+"RFp-Ts-mEb.placeholder" = "Enter your question";
+
+/* Class = "IBUILabel"; text = "Your Profile is incomplete"; ObjectID = "RXx-Mi-uab"; */
+"RXx-Mi-uab.text" = "Your Profile is incomplete";
+
+/* Class = "IBUINavigationController"; title = "YourGroupsNavigationController"; ObjectID = "U2U-3J-qXc"; */
+"U2U-3J-qXc.title" = "YourGroupsNavigationController";
+
+/* Class = "IBUIButton"; normalTitle = "Add"; ObjectID = "V8f-8s-w1C"; */
+"V8f-8s-w1C.normalTitle" = "Add";
+
+/* Class = "IBUIButton"; normalTitle = "Join"; ObjectID = "Vvm-UM-SLY"; */
+"Vvm-UM-SLY.normalTitle" = "Join";
+
+/* Class = "IBUITextField"; placeholder = "Email"; ObjectID = "WAJ-m2-NVU"; */
+"WAJ-m2-NVU.placeholder" = "Email";
+
+/* Class = "IBUIViewController"; title = "YourSubscriptions"; ObjectID = "Wef-fL-THY"; */
+"Wef-fL-THY.title" = "YourSubscriptions";
+
+/* Class = "IBUIViewController"; title = "YourGroups"; ObjectID = "Wlh-6z-f8U"; */
+"Wlh-6z-f8U.title" = "YourGroups";
+
+/* Class = "IBUIButton"; normalTitle = "3"; ObjectID = "XJo-hP-YgI"; */
+"XJo-hP-YgI.normalTitle" = "3";
+
+/* Class = "IBUILabel"; text = "Answer 1"; ObjectID = "Yoo-RH-xYl"; */
+"Yoo-RH-xYl.text" = "Answer 1";
+
+/* Class = "IBUITabBarItem"; title = "Saved Questions"; ObjectID = "ZW6-8M-UyN"; */
+"ZW6-8M-UyN.title" = "Saved Questions";
+
+/* Class = "IBUIViewController"; title = "Answer"; ObjectID = "ZuL-Ar-X2O"; */
+"ZuL-Ar-X2O.title" = "Answer";
+
+/* Class = "IBUITabBarItem"; title = "Home"; ObjectID = "acW-dT-cKf"; */
+"acW-dT-cKf.title" = "Home";
+
+/* Class = "IBUILabel"; text = "Error message"; ObjectID = "ajm-0c-snU"; */
+"ajm-0c-snU.text" = "Error message";
+
+/* Class = "IBUILabel"; text = "Join or create a group"; ObjectID = "axg-rp-0DI"; */
+"axg-rp-0DI.text" = "Join or create a group";
+
+/* Class = "IBUIButton"; normalTitle = "Profile"; ObjectID = "bNK-5Z-V62"; */
+"bNK-5Z-V62.normalTitle" = "Profile";
+
+/* Class = "IBUILabel"; text = "Answer 4"; ObjectID = "cFS-td-jfQ"; */
+"cFS-td-jfQ.text" = "Answer 4";
+
+/* Class = "IBUITabBarItem"; title = "Ask"; ObjectID = "cPa-gy-q4n"; */
+"cPa-gy-q4n.title" = "Ask";
+
+/* Class = "IBUIButton"; normalTitle = "Reset Password"; ObjectID = "cQd-6j-ZdJ"; */
+"cQd-6j-ZdJ.normalTitle" = "Reset Password";
+
+/* Class = "IBUILabel"; text = "Ask your subscribers"; ObjectID = "dfB-Yo-Lb4"; */
+"dfB-Yo-Lb4.text" = "Ask your subscribers";
+
+/* Class = "IBUILabel"; text = "Error Message"; ObjectID = "eDs-sI-0T9"; */
+"eDs-sI-0T9.text" = "Error Message";
+
+/* Class = "IBUIButton"; normalTitle = "Forgot Password?"; ObjectID = "eNR-JO-996"; */
+"eNR-JO-996.normalTitle" = "Forgot Password?";
+
+/* Class = "IBUITabBarItem"; title = "Your Subscriptions"; ObjectID = "eUt-cM-W05"; */
+"eUt-cM-W05.title" = "Your Subscriptions";
+
+/* Class = "IBUITextField"; placeholder = "Username"; ObjectID = "eVw-O0-d9J"; */
+"eVw-O0-d9J.placeholder" = "Username";
+
+/* Class = "IBUIViewController"; title = "JoinedGroups"; ObjectID = "fws-A4-4Ng"; */
+"fws-A4-4Ng.title" = "JoinedGroups";
+
+/* Class = "IBUILabel"; text = "Here you can see a preview of your question"; ObjectID = "kkD-UY-oba"; */
+"kkD-UY-oba.text" = "Here you can see a preview of your question";
+
+/* Class = "IBUITextField"; placeholder = "Password"; ObjectID = "mEZ-ge-RuB"; */
+"mEZ-ge-RuB.placeholder" = "Password";
+
+/* Class = "IBUIButton"; normalTitle = "Subscribe"; ObjectID = "mYv-lK-FV5"; */
+"mYv-lK-FV5.normalTitle" = "Subscribe";
+
+/* Class = "IBUIButton"; normalTitle = "Add"; ObjectID = "mjJ-dd-Mvv"; */
+"mjJ-dd-Mvv.normalTitle" = "Add";
+
+/* Class = "IBUIButton"; normalTitle = "Sign up"; ObjectID = "nPm-I0-Njx"; */
+"nPm-I0-Njx.normalTitle" = "Sign up";
+
+/* Class = "IBUILabel"; text = "Error message"; ObjectID = "ox3-Id-6ZT"; */
+"ox3-Id-6ZT.text" = "Error message";
+
+/* Class = "IBUITextField"; placeholder = "Password again"; ObjectID = "p48-Sn-XpR"; */
+"p48-Sn-XpR.placeholder" = "Password again";
+
+/* Class = "IBUILabel"; text = "Ask a group"; ObjectID = "qbi-Gy-ufg"; */
+"qbi-Gy-ufg.text" = "Ask a group";
+
+/* Class = "IBUILabel"; text = "Error message"; ObjectID = "qjK-3g-3lx"; */
+"qjK-3g-3lx.text" = "Error message";
+
+/* Class = "IBUILabel"; text = "Answer 3"; ObjectID = "qnE-bI-cX1"; */
+"qnE-bI-cX1.text" = "Answer 3";
+
+/* Class = "IBUILabel"; text = "Please fill in this information to sign up"; ObjectID = "qyY-IV-Lvy"; */
+"qyY-IV-Lvy.text" = "Please fill in this information to sign up";
+
+/* Class = "IBUITextField"; placeholder = "Password"; ObjectID = "tpW-EQ-VRh"; */
+"tpW-EQ-VRh.placeholder" = "Password";
+
+/* Class = "IBUIButton"; normalTitle = "Refresh"; ObjectID = "ucG-IY-dxR"; */
+"ucG-IY-dxR.normalTitle" = "Refresh";
+
+/* Class = "IBUIButton"; normalTitle = "Add"; ObjectID = "xcW-hC-0gz"; */
+"xcW-hC-0gz.normalTitle" = "Add";
+
+/* Class = "IBUILabel"; text = "Add 2 to 5 possible answers"; ObjectID = "yHC-9H-An0"; */
+"yHC-9H-An0.text" = "Add 2 to 5 possible answers";
+
+/* Class = "IBUITextField"; placeholder = "Username"; ObjectID = "yXd-9P-pe7"; */
+"yXd-9P-pe7.placeholder" = "Username";
+
+/* Class = "IBUIButton"; normalTitle = "Back to Login"; ObjectID = "z5i-Ck-za3"; */
+"z5i-Ck-za3.normalTitle" = "Back to Login";
